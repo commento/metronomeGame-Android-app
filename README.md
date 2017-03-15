@@ -1,4 +1,4 @@
-APP Metronome Training Game project
+# Android App Metronome Training Game project
 
 Project related to a coding challenge.
 Simple app to training musicians with a selected BPM tempo.
